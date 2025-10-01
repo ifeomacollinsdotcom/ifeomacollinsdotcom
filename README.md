@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ifeomacollinsdotcom
-- 👀 I’m interested in Business Analysis and DevOps Engineering 
-- 🌱 I’m currently learning DevOps
+- 👀 I’m Business Analyst with DevOps Engineering experience
+- 🌱 I’m passionate about bridging the gap between tech and business, and automating Business process
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me +2348025947635
 - 😄 Pronouns: she
